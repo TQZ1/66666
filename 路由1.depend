@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1484022921 source:e:\14-李浩\路由1\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<stack>
+	<queue>
+	<windows.h>
+
+1484097310 source:c:\users\17600\desktop\github\projects\路由1\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<stack>
+	<queue>
+	<windows.h>
+
+1484054565 source:c:\users\lenovo\documents\github\projects\路由1\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<stack>
+	<queue>
+	<windows.h>
+
+1484099116 source:c:\users\dell\documents\github\projects\路由1\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<stack>
+	<queue>
+	<windows.h>
+
+1484101499 source:f:\路由1\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	<stack>
+	<queue>
+	<windows.h>
+
